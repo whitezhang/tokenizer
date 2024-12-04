@@ -7,7 +7,7 @@ import (
 	"sort"
 	"unicode"
 
-	"github.com/whitezhang/regexpset"
+	"github.com/sugarme/regexpset"
 	"github.com/whitezhang/tokenizer/normalizer"
 )
 
