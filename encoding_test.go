@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/sugarme/tokenizer"
+	"github.com/whitezhang/tokenizer"
 )
 
 func TestTokenizer_MergeWith(t *testing.T) {

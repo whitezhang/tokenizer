@@ -1,7 +1,7 @@
 package decoder
 
 import (
-	"github.com/sugarme/tokenizer"
+	"github.com/whitezhang/tokenizer"
 )
 
 type Sequence struct {

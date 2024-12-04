@@ -1,8 +1,8 @@
 package pretokenizer
 
 import (
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/normalizer"
+	"github.com/whitezhang/tokenizer"
+	"github.com/whitezhang/tokenizer/normalizer"
 )
 
 type Whitespace struct{}

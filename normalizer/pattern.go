@@ -2,7 +2,7 @@ package normalizer
 
 import (
 	re2 "github.com/dlclark/regexp2"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/whitezhang/tokenizer/util"
 	"log"
 	"regexp"
 )

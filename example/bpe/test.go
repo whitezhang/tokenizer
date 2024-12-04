@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/model/bpe"
-	"github.com/sugarme/tokenizer/pretokenizer"
+	"github.com/whitezhang/tokenizer"
+	"github.com/whitezhang/tokenizer/model/bpe"
+	"github.com/whitezhang/tokenizer/pretokenizer"
 )
 
 func runTest() {

@@ -1,4 +1,4 @@
-# Tokenizer [![License](https://img.shields.io/:license-apache-blue.svg)](https://opensource.org/licenses/Apache-2.0)[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/sugarme/tokenizer?tab=doc)[![Travis CI](https://api.travis-ci.org/sugarme/tokenizer.svg?branch=master)](https://travis-ci.org/sugarme/tokenizer)[![Go Report Card](https://goreportcard.com/badge/github.com/sugarme/tokenizer)](https://goreportcard.com/report/github.com/sugarme/tokenizer) 
+# Tokenizer [![License](https://img.shields.io/:license-apache-blue.svg)](https://opensource.org/licenses/Apache-2.0)[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/whitezhang/tokenizer?tab=doc)[![Travis CI](https://api.travis-ci.org/whitezhang/tokenizer.svg?branch=master)](https://travis-ci.org/whitezhang/tokenizer)[![Go Report Card](https://goreportcard.com/badge/github.com/whitezhang/tokenizer)](https://goreportcard.com/report/github.com/whitezhang/tokenizer) 
 
 ## Overview
 
@@ -6,7 +6,7 @@
 
 It is heavily inspired by and based on the popular [HuggingFace Tokenizers](https://github.com/huggingface/tokenizers). 
 
-`tokenizer` is part of an ambitious goal (together with [**transformer**](https://github.com/sugarme/transformer) and [**gotch**](https://github.com/sugarme/gotch)) to bring more AI/deep-learning tools to Gophers so that they can stick to the language they love and build faster software in production. 
+`tokenizer` is part of an ambitious goal (together with [**transformer**](https://github.com/whitezhang/transformer) and [**gotch**](https://github.com/whitezhang/gotch)) to bring more AI/deep-learning tools to Gophers so that they can stick to the language they love and build faster software in production. 
 
 ## Features
 
@@ -63,12 +63,12 @@ func main() {
 }
 ```
 
-All models can be loaded from files manually. [pkg.go.dev](https://pkg.go.dev/github.com/sugarme/tokenizer?tab=doc) for detail APIs.
+All models can be loaded from files manually. [pkg.go.dev](https://pkg.go.dev/github.com/whitezhang/tokenizer?tab=doc) for detail APIs.
 
 
 ## Getting Started
 
-- See [pkg.go.dev](https://pkg.go.dev/github.com/sugarme/tokenizer?tab=doc) for detail APIs 
+- See [pkg.go.dev](https://pkg.go.dev/github.com/whitezhang/tokenizer?tab=doc) for detail APIs 
 
 
 ## License

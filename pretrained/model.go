@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/model"
-	"github.com/sugarme/tokenizer/model/bpe"
-	"github.com/sugarme/tokenizer/model/wordlevel"
-	"github.com/sugarme/tokenizer/model/wordpiece"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/whitezhang/tokenizer"
+	"github.com/whitezhang/tokenizer/model"
+	"github.com/whitezhang/tokenizer/model/bpe"
+	"github.com/whitezhang/tokenizer/model/wordlevel"
+	"github.com/whitezhang/tokenizer/model/wordpiece"
+	"github.com/whitezhang/tokenizer/util"
 )
 
 // This file provides functions to create tokenizer.Model from input data.
