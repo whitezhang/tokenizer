@@ -1,4 +1,4 @@
-module github.com/whitezhangv5/tokenizer
+module github.com/whitezhang/tokenizer
 
 go 1.18
 

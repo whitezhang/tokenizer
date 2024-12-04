@@ -32,7 +32,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sugarme/tokenizer/pretrained"
+	"github.com/whitezhang/tokenizer/pretrained"
 )
 
 func main() {
